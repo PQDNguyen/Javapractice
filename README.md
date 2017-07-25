@@ -1,2 +1,2 @@
 # Javapractice
-Practicing Java (Now with more JR!)
+Practicing Java (Now with slightly more JR!)
